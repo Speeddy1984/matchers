@@ -1,3 +1,3 @@
-# Pure-func homework
+# Matchers homework
 
-[![Build status](https://ci.appveyor.com/api/projects/status/2r7611xayt84rx1d?svg=true)](https://ci.appveyor.com/project/Speeddy1984/test-ci1)
+[![Build status](https://ci.appveyor.com/api/projects/status/kbmy5kv0squh0dlj?svg=true)](https://ci.appveyor.com/project/Speeddy1984/matchers)
